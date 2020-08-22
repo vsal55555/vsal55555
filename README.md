@@ -43,6 +43,3 @@ Here are some ideas to get you started:
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="Bishal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vsal55555&show_icons=true&theme=radical" />
 </details>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsal55555)](https://github.com/vsal55555?tab=repositories)
