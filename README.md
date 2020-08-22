@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-[![image](https://github.com/PrashantGaikwad-iOS/PrashantGaikwad-iOS/blob/master/githubImg.png)](https://github.com/PrashantGaikwad-iOS?tab=repositories)
--->
+
+
 
 <br/>
 <a href="https://twitter.com/BsalM22">
